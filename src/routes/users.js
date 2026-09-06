@@ -7,7 +7,7 @@ const router = express.Router();
 
 const EMAIL_RE = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
 // "at least 6 characters including English letters and numbers"
-const PASSWORD_RE = /^(?=.*[A-Za-z])(?=.*\d)[A-Za-z0-9]{6,}$/;
+const PASSWORD_RE = /^(?=.*[A-Za-z])(?=.*\d).{6,}$/;
 
 // POST /api/users/signin
 // Doubles as sign-up: if the email isn't registered yet, an account is
