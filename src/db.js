@@ -6,6 +6,12 @@ const pool = mysql.createPool({
   user: process.env.DB_USER,
   password: process.env.DB_PASSWORD,
   database: process.env.DB_NAME,
+  port: process.env.PORT,
+
+  ssl: {
+    ca: process.env.DB_CA_CERT
+  },
+
   waitForConnections: true,
   connectionLimit: 10
 });
