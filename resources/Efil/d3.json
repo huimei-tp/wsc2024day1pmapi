@@ -1,0 +1,7 @@
+{
+  "blocks": [
+    { "type": "paragraph", "text": "The Eiffel Tower is a wrought-iron lattice tower on the Champ de Mars in Paris, France. It is named after the engineer Gustave Eiffel, whose company designed and built the tower." },
+    { "type": "image", "path": "resources/Efil/2.jpg" },
+    { "type": "paragraph", "text": "Locally nicknamed 'La dame de fer' (French for 'Iron Lady'), it was constructed as the centerpiece of the 1889 World's Fair and has since become a global cultural icon of France." }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "blocks": [
+    { "type": "paragraph", "text": "Lyon is widely regarded as the culinary capital of France, and its old town, Vieux Lyon, is one of the largest Renaissance neighborhoods in Europe, threaded with hidden passageways called traboules." },
+    { "type": "image", "path": "resources/Lyon/1.jpeg" },
+    { "type": "paragraph", "text": "From the Fourviere hill I looked down over the Saone and Rhone rivers meeting below, then came back down to eat in a traditional bouchon lyonnais." }
+  ]
+}
