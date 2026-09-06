@@ -1,7 +1,16 @@
 {
   "blocks": [
-    { "type": "paragraph", "text": "Before the collections even come into view, the museum's giant station clock and soaring vaulted hall make the Musee d'Orsay itself feel like a work of art." },
-    { "type": "image", "path": "resources/Musee d Orsay/1.jpg" },
-    { "type": "paragraph", "text": "I lost track of time in the sculpture gallery beneath the clock face, watching the light change through the huge glass window as the afternoon wore on." }
+    {
+      "type": "paragraph",
+      "text": "The Musee d'Orsay might be my favourite museum in Paris so far - it's housed inside a former Beaux-Arts railway station, and you can still see the bones of the building in the arched glass ceiling and the old station clock."
+    },
+    {
+      "type": "image",
+      "path": "resources/Musee d Orsay/2.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "Room after room of Impressionist and Post-Impressionist paintings, all lit by natural light pouring through what used to be the train shed's roof - it's hard to believe this was once full of steam trains instead of Monet and Van Gogh."
+    }
   ]
 }

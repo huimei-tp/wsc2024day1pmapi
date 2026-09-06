@@ -1,7 +1,16 @@
 {
   "blocks": [
-    { "type": "paragraph", "text": "Returning to the Louvre for a second visit, I finally had time to wander beyond the Mona Lisa and explore the Denon and Sully wings, home to the Venus de Milo and vast collections of Egyptian antiquities." },
-    { "type": "image", "path": "resources/Louvre/2.jpg" },
-    { "type": "paragraph", "text": "Once a medieval fortress and later a royal palace, the building itself is a work of art, with the Cour Carree courtyard offering a quieter contrast to the crowds around Pei's glass pyramid." }
+    {
+      "type": "paragraph",
+      "text": "Came back to the Louvre for a second, slower visit today - this time I skipped the Denon wing crowds and wandered through the Egyptian antiquities instead, which were almost empty by comparison."
+    },
+    {
+      "type": "image",
+      "path": "resources/Louvre/1.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "I ended the afternoon sitting by the pyramid's reflecting pools, watching the light change on the museum's facade as the sun dropped behind the Tuileries."
+    }
   ]
 }

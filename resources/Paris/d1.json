@@ -1,7 +1,16 @@
 {
   "blocks": [
-    { "type": "paragraph", "text": "I landed in Paris just as the sun was setting over the rooftops, and the taxi ride into the city gave me my first glimpse of the Eiffel Tower lighting up in the distance." },
-    { "type": "image", "path": "resources/Paris/1.jpg" },
-    { "type": "paragraph", "text": "After dropping my bags, I couldn't resist a first walk along the Seine, past bouquiniste stalls and busy brasseries, before finally settling in for the night." }
+    {
+      "type": "paragraph",
+      "text": "Landed in Paris this morning and dropped my bags before doing anything else - just walked out into the streets to see if it really looked the way everyone says it does. It does."
+    },
+    {
+      "type": "image",
+      "path": "resources/Paris/2.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "From the hotel window I can already see rooftops stretching toward a hazy skyline, and somewhere out there, apparently, is the Eiffel Tower waiting for tomorrow."
+    }
   ]
 }

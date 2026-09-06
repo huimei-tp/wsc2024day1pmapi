@@ -1,7 +1,16 @@
 {
   "blocks": [
-    { "type": "paragraph", "text": "Standing directly beneath the Eiffel Tower gives a completely different perspective than seeing it from a distance; the lattice ironwork rises 330 meters overhead in an intricate geometric pattern." },
-    { "type": "image", "path": "resources/Eiffel Tower/1.jpg" },
-    { "type": "paragraph", "text": "I took the lift up to the second floor for views across the whole city, and came back down just in time to see it sparkle for five minutes on the hour after dark." }
+    {
+      "type": "paragraph",
+      "text": "Came back to the Eiffel Tower in the late afternoon this time, when the light turns golden and the whole iron structure seems to glow from underneath."
+    },
+    {
+      "type": "image",
+      "path": "resources/Eiffel Tower/2.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "Took the stairs instead of the lift up to the second floor - out of breath by the top, but the view over the Trocadero gardens made every step worth it."
+    }
   ]
 }

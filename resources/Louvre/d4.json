@@ -1,7 +1,16 @@
 {
   "blocks": [
-    { "type": "paragraph", "text": "The Louvre is the world's most-visited museum and a historic landmark in Paris. It is home to some of the most famous artworks in history, including the Mona Lisa." },
-    { "type": "image", "path": "resources/Louvre/2.jpg" },
-    { "type": "paragraph", "text": "The glass pyramid at its main entrance, designed by architect I. M. Pei, has become as iconic as the museum's collection itself." }
+    {
+      "type": "paragraph",
+      "text": "The queue for the Louvre wrapped almost all the way around the courtyard, but it moved faster than I expected once I got close to I. M. Pei's glass pyramid, which looks almost weightless against the old stone facade behind it."
+    },
+    {
+      "type": "image",
+      "path": "resources/Louvre/2.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "Inside, the sheer scale of the former royal palace is dizzying - room after room of gilded ceilings, and somewhere among the crowds, the Mona Lisa, smaller and quieter than I imagined."
+    }
   ]
 }

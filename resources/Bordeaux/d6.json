@@ -1,7 +1,16 @@
 {
   "blocks": [
-    { "type": "paragraph", "text": "Bordeaux is synonymous with wine, but its riverside old town is a UNESCO World Heritage Site in its own right, built almost entirely from pale limestone that glows gold at sunset." },
-    { "type": "image", "path": "resources/Bordeaux/1.jpg" },
-    { "type": "paragraph", "text": "The elegant Place de la Bourse, mirrored perfectly on the water by the Miroir d'Eau fountain, was the highlight of my walk along the Garonne River." }
+    {
+      "type": "paragraph",
+      "text": "Spent the day touring vineyards just outside Bordeaux - rows and rows of vines stretching to the horizon, and a cellar tour where I finally learned the difference between the Left Bank and Right Bank blends."
+    },
+    {
+      "type": "image",
+      "path": "resources/Bordeaux/2.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "Back in the city that evening, the Garonne river was lit up gold, and the old warehouses along the Quai des Chartrons have all been turned into wine bars - a perfect place to actually taste what I'd learned about."
+    }
   ]
 }

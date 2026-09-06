@@ -1,7 +1,16 @@
 {
   "blocks": [
-    { "type": "paragraph", "text": "Annecy is often called the 'Venice of the Alps' thanks to the canals that wind through its old town, all set against the turquoise waters of Lake Annecy and a backdrop of the French Alps." },
-    { "type": "image", "path": "resources/Annecy/1.jpg" },
-    { "type": "paragraph", "text": "I spent the afternoon strolling past the medieval Palais de l'Isle, a former prison built on a small island in the Thiou canal, before relaxing on the lakeshore in the late summer sun." }
+    {
+      "type": "paragraph",
+      "text": "Annecy's lake is so clear you can see the pebbles on the bottom even from the little wooden bridges in the old town - people call this 'the Venice of the Alps' and after today I finally understand why."
+    },
+    {
+      "type": "image",
+      "path": "resources/Annecy/2.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "I rented a bike and rode most of the way around the shoreline, with the mountains reflected perfectly on the water the whole time. A completely peaceful day after the noise of Paris."
+    }
   ]
 }

@@ -1,7 +1,16 @@
 {
   "blocks": [
-    { "type": "paragraph", "text": "The Musee d'Orsay is housed in a former Beaux-Arts railway station on the Left Bank, and holds the world's largest collection of Impressionist and Post-Impressionist masterpieces." },
-    { "type": "image", "path": "resources/Musee d Orsay/3.jpg" },
-    { "type": "paragraph", "text": "Standing in front of works by Monet, Van Gogh, and Renoir beneath the museum's enormous glass-and-iron ceiling was a fitting way to end a day devoted entirely to French art." }
+    {
+      "type": "paragraph",
+      "text": "Went back today just to sit under the giant station clock on the top floor, which frames the whole city outside in a perfect golden circle - easily one of the most photographed details in the building."
+    },
+    {
+      "type": "image",
+      "path": "resources/Musee d Orsay/4.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "From up there you can see the rooftops of Paris stretching out toward Montmartre, and it's strange to think this view was once reserved for train passengers rushing to catch a departure."
+    }
   ]
 }

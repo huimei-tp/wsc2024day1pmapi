@@ -1,7 +1,16 @@
 {
   "blocks": [
-    { "type": "paragraph", "text": "The Seine cuts through the heart of Paris, and the banks along its route are listed as a UNESCO World Heritage Site, lined with landmarks from Notre-Dame to the Eiffel Tower." },
-    { "type": "image", "path": "resources/Seine River/1.jpg" },
-    { "type": "paragraph", "text": "I took an evening boat cruise past the illuminated bridges, then finished with a slow walk over the Pont des Arts, once famous for its lovers' padlocks." }
+    {
+      "type": "paragraph",
+      "text": "Walked along the Seine for hours today, past the bouquinistes selling old books and prints from their green stalls, stopping at every bridge to look back at Notre-Dame from a slightly different angle."
+    },
+    {
+      "type": "image",
+      "path": "resources/Seine River/2.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "Took an evening boat cruise as the sun set, and watching all the bridges light up one by one from the water was easily the most romantic hour of the whole trip."
+    }
   ]
 }
