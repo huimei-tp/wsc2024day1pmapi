@@ -1,0 +1,7 @@
+{
+  "blocks": [
+    { "type": "paragraph", "text": "Montmartre is the highest point in Paris, once home to Picasso, Renoir, and Toulouse-Lautrec, and still dotted with artists' easels around the Place du Tertre." },
+    { "type": "image", "path": "resources/Montmartre/1.jpg" },
+    { "type": "paragraph", "text": "I arrived early to beat the crowds at the white-domed Basilica of Sacre-Coeur, then wandered the steep, cobbled streets down toward the old Moulin Rouge windmill." }
+  ]
+}

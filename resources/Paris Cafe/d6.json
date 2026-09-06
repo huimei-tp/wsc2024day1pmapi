@@ -1,0 +1,7 @@
+{
+  "blocks": [
+    { "type": "paragraph", "text": "No trip to Paris feels complete without an hour spent at a sidewalk cafe, watching the city go by over a cafe creme and a warm croissant fresh from the oven." },
+    { "type": "image", "path": "resources/Paris Cafe/1.jpg" },
+    { "type": "paragraph", "text": "I hopped between a few classic addresses, ending with a pistachio eclair from a small patisserie tucked down a side street near Saint-Germain-des-Pres." }
+  ]
+}

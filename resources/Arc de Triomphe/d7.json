@@ -1,0 +1,7 @@
+{
+  "blocks": [
+    { "type": "paragraph", "text": "The Arc de Triomphe stands at the center of Place Charles de Gaulle, commissioned by Napoleon in 1806 to honor the soldiers who fought for France, with twelve avenues radiating out from it like a star." },
+    { "type": "image", "path": "resources/Arc de Triomphe/1.jpg" },
+    { "type": "paragraph", "text": "I climbed to the rooftop terrace just before sunset, and watching the golden light spread down the Champs-Elysees toward the Louvre was worth every one of the 284 steps." }
+  ]
+}
