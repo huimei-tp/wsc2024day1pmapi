@@ -1,0 +1,7 @@
+{
+  "blocks": [
+    { "type": "paragraph", "text": "Marseille is France's oldest city and its largest port on the Mediterranean, founded by Greek settlers over 2,600 years ago. Its heart is the Vieux-Port, still lined with fishing boats each morning." },
+    { "type": "image", "path": "resources/Marseille/1.jpg" },
+    { "type": "paragraph", "text": "From the hilltop basilica of Notre-Dame de la Garde, the whole city unfolds toward the sea, and I ended the day with a bowl of bouillabaisse, the fisherman's stew Marseille is famous for." }
+  ]
+}

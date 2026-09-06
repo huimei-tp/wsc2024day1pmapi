@@ -1,0 +1,7 @@
+{
+  "blocks": [
+    { "type": "paragraph", "text": "The French Riviera, or Cote d'Azur, stretches along the Mediterranean coast from Saint-Tropez to the Italian border, famous for its glamorous resort towns and brilliant blue water." },
+    { "type": "image", "path": "resources/French Riviera/1.jpg" },
+    { "type": "paragraph", "text": "I drove along the coastal roads linking Cannes, Antibes, and Monaco, stopping for a swim in a quiet cove that felt worlds away from the region's celebrity reputation." }
+  ]
+}

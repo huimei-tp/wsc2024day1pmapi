@@ -1,0 +1,7 @@
+{
+  "blocks": [
+    { "type": "paragraph", "text": "Giverny is the small Normandy village where Claude Monet lived for over 40 years, and where he built the flower garden and water-lily pond that inspired many of his most famous paintings." },
+    { "type": "image", "path": "resources/Giverny/1.jpg" },
+    { "type": "paragraph", "text": "Walking across the green Japanese footbridge over the lily pond, it was easy to see exactly where his Nympheas series came from." }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "blocks": [
+    { "type": "paragraph", "text": "Nice is the unofficial capital of the French Riviera, known for the Promenade des Anglais, a long seafront walkway that curves along the Baie des Anges." },
+    { "type": "image", "path": "resources/Nice/1.jpg" },
+    { "type": "paragraph", "text": "I spent the weekend browsing the flower and produce stalls of the Cours Saleya market and getting pleasantly lost in the pastel-colored alleys of Vieux Nice." }
+  ]
+}

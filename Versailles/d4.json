@@ -1,0 +1,7 @@
+{
+  "blocks": [
+    { "type": "paragraph", "text": "The Palace of Versailles was the principal royal residence of France from Louis XIV until the French Revolution, and its Hall of Mirrors remains one of the most opulent rooms in the world." },
+    { "type": "image", "path": "resources/Versailles/1.jpg" },
+    { "type": "paragraph", "text": "I spent most of the afternoon in the meticulously manicured gardens, wandering past fountains and the Grand Canal, before the crowds thinned out near closing time." }
+  ]
+}
